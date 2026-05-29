@@ -16,6 +16,6 @@ def main():
     root.geometry(f'+{x}+{y}')
     
     root.mainloop()
-
+ 
 if __name__ == "__main__":
     main()
