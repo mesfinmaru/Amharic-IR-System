@@ -1,6 +1,6 @@
-## Amharic Information Retrieval System
+## Amharic Information Retrieval Systems
 
-A lightweight Information Retrieval (IR) system for Amharic text, implemented in Python using the TF-IDF model. It indexes text documents and returns ranked results based on user queries.
+A lightweight Information Retrieval (IR) systems for Amharic text, implemented in Python using the TF-IDF model. It indexes text documents and returns ranked results based on user queries.
 
 ## Features
 - Amharic text tokenization  
